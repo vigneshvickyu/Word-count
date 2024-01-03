@@ -21,8 +21,8 @@ End the program by printing the output
 ## PROGRAM:
 \*
 # Program to find the word count
-# Developed by: V. Yogesh
-# register number: 212223230250
+# Developed by: VIGNESH M
+# register number: 212223240176
 \*
 num=0
 with open("/content/story.txt","r") as f1:
